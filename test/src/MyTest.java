@@ -4,5 +4,7 @@
 public class MyTest {
     public static void main(String [] ars){
         System.out.println("this is test class");
+        System.out.println("this is test class");
+        System.out.println("this is test class");
     }
 }

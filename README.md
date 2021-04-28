@@ -9,3 +9,7 @@ test
 
 
 GITHUB修改测试IDEA本地提交PUSH时是否会自动拉去最新到本地
+
+
+
+GITHUB修改测试IDEA本地提交PUSH时选择合并看是否覆盖
